@@ -41,7 +41,7 @@ YOLOv8을 활용하여 도로 내 차량을 탐지하고,
   * 실시간 상태 모니터링
   * STM32 보드 연동 및 시리얼 통신 처리
 
-[프로젝트 보러가기](https://github.com/rootjihn/rocket-simulation)
+[프로젝트 보러가기](https://github.com/rootjihn/LLM-STM-rocket-launch-simulation)
 
 ---
 
